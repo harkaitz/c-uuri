@@ -1,0 +1,11 @@
+
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+## -- BLOCK:c --
+uuri_test
+uuri
